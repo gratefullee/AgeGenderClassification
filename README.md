@@ -35,7 +35,7 @@ Age Model
 - Haar-Cascade Face Detection
 
 ![demo](/img/demo.gif)
-
+<Woman of Age 26>
 
 ## Conclusion / Future Works
 - Overall the models' performance was good but I would definitely try out different models / different number of epochs, etc. 
