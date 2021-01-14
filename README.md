@@ -9,24 +9,24 @@ around 19k+ of images: male/female, 8 different age groups
 - validation set 15%
 
 
-![age_ratio](/img/ageratio.jpg)
-![gender_ratio](/img/genderratio.jpg)
+![age_ratio](/img/ageratio.jpg){:height="50%" width="50%"}
+![gender_ratio](/img/genderratio.jpg){:height="50%" width="50%"}
 
 ## VGG16 CNN Model
 
 Gender Model 
 - 10 epochs
 - About 87% of accuracy
-![cm_gender](/img/cm_gender.jpg)
-![gender_examples](/img/gender_examples.jpg)
+![cm_gender](/img/cm_gender.jpg){:height="50%" width="50%"}
+![gender_examples](/img/gender_examples.jpg){:height="50%" width="50%"}
 
 
 
 Age Model 
 - 100 epochs 
 - About 67% of accuracy
-![cm_age](/img/cm_age.jpg)
-![age_examples](/img/age_examples.jpg)
+![cm_age](/img/cm_age.jpg){:height="50%" width="50%"}
+![age_examples](/img/age_examples.jpg){:height="50%" width="50%"}
 
 
 ## Computer Vision
